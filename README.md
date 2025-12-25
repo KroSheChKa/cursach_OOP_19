@@ -32,9 +32,5 @@ python -m pip install -r requirements.txt
 python -m src.main
 ```
 
-## Документация
-
-См. папку `docs/`:
-- `technical_assignment.md` — техническое задание (ГОСТ 19.201‑78).
 
 
